@@ -1,0 +1,11 @@
+
+.portfolio {
+    background-image: url(../assets/ivan-gromov-Y3vPEuNlf7w-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}

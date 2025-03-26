@@ -9,7 +9,7 @@ const styles = {
       padding: '0px 0px 0px 53px',
       width: '100%',
       border: '3px solid black',
-      background: 'linear-gradient(90deg, #086bed 0%, #e1e112 0%, rgba(0,212,255,1) 100%)',
+      background: 'linear-gradient(90deg, rgba(2,0,36,1) 0%, #dae10b 0%, #ff00ff 100%)',
     },
     headingText: {
       fontSize: '50px',
