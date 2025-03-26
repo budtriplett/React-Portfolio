@@ -1,4 +1,3 @@
-
 import employeeTrackerImage from '../../assets/employee-tracker.jpg'
 import vehicleBuilderImage from '../../assets/vehicle-builder.jpg'
 import readmeGeneratorImage from '../../assets/readme-generator.jpg'

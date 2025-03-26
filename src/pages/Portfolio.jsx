@@ -1,8 +1,7 @@
 import React from 'react';
-//import 'bootstrap/dist/css/bootstrap.min.css';
-//import 'bootstrap-icons/font/bootstrap-icons.css';
-//import './portfolio.css';
-import projects  from '../components/UI/projects';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap-icons/font/bootstrap-icons.css';
+import projects  from '../components/UI/projects.jsx';
 
 const Portfolio = () => {
     return (
